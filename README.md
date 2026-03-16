@@ -1,5 +1,5 @@
 # Mahesh Yadav
-Machine learning | Fullstack web devolpment
+Machine learning | FrontEnd devolpment
 
 
 ## 🌐 Socials:
