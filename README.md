@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Machine learning | Fullstack web devolpment
 
 
