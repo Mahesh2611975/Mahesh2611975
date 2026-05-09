@@ -47,21 +47,6 @@ FastAPI, Flask, MongoDB, and AI technologies.
 
 </div>
 
----
-
-# Featured Projects
-
-<div align="center">
-
-| Project | Description |
-|---|---|
-| 🏥 MediSense AI | AI-powered healthcare assistant |
-| 📚 Book Recommendation System | ML recommendation engine |
-| 🗳️ Online Voting System | Secure digital voting platform |
-
-</div>
-
----
 
 # GitHub Statistics
 
