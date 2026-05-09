@@ -1,4 +1,4 @@
-```md id="okctjy"
+```html
 <div align="center">
 
 # Mahesh Yadav
@@ -58,7 +58,6 @@ FastAPI, Flask, MongoDB, and AI technologies.
 | 🏥 MediSense AI | AI-powered healthcare assistant |
 | 📚 Book Recommendation System | ML recommendation engine |
 | 🗳️ Online Voting System | Secure digital voting platform |
-| 🎓 School Management Website | Modern responsive school portal |
 
 </div>
 
