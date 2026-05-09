@@ -46,7 +46,9 @@ FastAPI, Flask, MongoDB, and AI technologies.
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 
 </div>
+---
 
+---
 
 # GitHub Statistics
 
