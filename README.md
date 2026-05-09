@@ -89,9 +89,6 @@ FastAPI, Flask, MongoDB, and AI technologies.
 
 ---
 
-<div align="center">
-
-### "Building AI solutions for real-world impact"
 
 </div>
 ```
