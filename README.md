@@ -31,13 +31,13 @@ FastAPI, Flask, MongoDB, and AI technologies.
 
 ### Languages & Development
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript"/>
 
 <br><br>
 
 ### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=flask,django,fastapi,mongodb,mysql,sqlite"/>
+<img src="https://skillicons.dev/icons?i= fastapi,flask,django,mongodb,mysql,sqlite"/>
 
 <br><br>
 
