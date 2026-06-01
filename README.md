@@ -37,7 +37,7 @@ FastAPI, Flask, MongoDB, and AI technologies.
 
 ### Backend & Database
 
-<img src="https://skillicons.dev/icons?i= fastapi,flask,django,mongodb,mysql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,mongodb,mysql,sqlite"/>
 
 <br><br>
 
