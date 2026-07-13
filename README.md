@@ -3,7 +3,7 @@
 
 # Mahesh Yadav
 
-### Frontend Developer | Machine Learning Engineer
+### Python Web Developer | Machine Learning Engineer
 
 ## Python | FastAPI | AI/ML
 
