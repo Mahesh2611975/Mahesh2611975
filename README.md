@@ -2,9 +2,9 @@
 
 # Mahesh Yadav
 
-### Python Web Developer | Machine Learning Engineer
+### Python Backend Developer | ML Enthusiast
 
-## Python | FastAPI | AI/ML
+## Python | FastAPI | Django | Machine Learning | GenAI
 
 </div>
 
@@ -19,6 +19,9 @@ AI-powered healthcare, machine learning, and scalable backend systems.
 
 Passionate about creating real-world solutions using Python,
 FastAPI, Flask, MongoDB, and AI technologies.
+
+Learning Machine Learning, GenAI, LLMs & RAG
+⚡ Building APIs and scalable backend systems with FastAPI & Django
 
 </div>
 
