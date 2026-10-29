@@ -1,157 +1,163 @@
-# 👋 Hi, I'm Mahesh Yadav
+ <div align="center">
 
-### 🐍 Python Backend Developer | GenAI & RAG Enthusiast | ML Explorer
+# Mahesh Yadav
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;Building+APIs+with+FastAPI+%26+Django;Exploring+GenAI%2C+LLMs+%26+RAG;Building+AI-Powered+Real-World+Solutions" alt="Typing SVG" />
-</p>
+```text
+Python Backend Engineering • Generative AI • Machine Learning
+```
 
-<p align="center">
-  <a href="https://github.com/Mahesh2611975">
-    <img src="https://img.shields.io/badge/GitHub-Mahesh2611975-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="mailto:my0254620@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://mahesh2611975.github.io/Portpolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+<a href="https://github.com/Mahesh2611975">
+  <img src="https://img.shields.io/badge/GitHub-Mahesh2611975-181717?style=flat-square&logo=github" alt="GitHub"/>
+</a>
+<a href="https://mahesh2611975.github.io/Portpolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## What I Build
 
-I'm a Computer Science and Engineering student passionate about building reliable backend systems and AI-powered applications.
+I'm a Computer Science and Engineering student focused on building reliable backend systems and intelligent applications using Python, FastAPI, Django, and Generative AI.
 
-- 🔭 Currently building **FinAudit AI** — an AI-assisted financial audit and reconciliation platform.
-- 🐍 Developing backend applications using **Python, FastAPI, and Django**.
-- 🤖 Exploring **Generative AI, LLMs, RAG, and AI agents**.
-- 🗄️ Working with SQL databases, SQLite, PostgreSQL, and MongoDB.
-- 🧠 Learning Machine Learning and practical AI engineering.
-- 🎯 Goal: Build production-oriented projects and contribute to open-source software.
-- 💼 Interested in **Python Backend, GenAI, RAG, and AI/ML internships**.
+My interests include API development, database design, Machine Learning, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), and AI agents. I enjoy turning ideas into practical applications that solve real-world problems.
+
+Currently, I'm building **FinAudit AI**, a financial reconciliation and discrepancy investigation application, while expanding my knowledge of backend engineering and local LLM integration.
+
+My goal is to become a strong backend and AI engineer by building practical projects, writing maintainable code, and continuously learning modern technologies.
 
 ---
 
-## 🛠️ Tech Stack
+## Technologies I Work With
 
-### Programming Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript" alt="Programming languages"/>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>Backend Engineering</h4>
+      <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask&theme=dark" alt="Python backend technologies"/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>Databases & Data</h4>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite&theme=dark" alt="Database technologies"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>Generative AI & Agentic AI</h4>
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" height="45" alt="Python"/>
+      &nbsp;
+      <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="45" alt="LangChain"/>
+      &nbsp;
+      <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/langgraph.png" height="45" alt="LangGraph"/>
+      &nbsp;
+      <img src="https://cdn.simpleicons.org/ollama/FFFFFF" height="45" alt="Ollama"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LLMs-Exploring-412991?style=flat-square" alt="Large Language Models"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/AI_Agents-Learning-0B7285?style=flat-square" alt="AI agents"/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>Machine Learning & RAG</h4>
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" height="45" alt="Python"/>
+      &nbsp;
+      <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45" alt="Scikit-learn"/>
+      &nbsp;
+      <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="45" alt="Hugging Face"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-146C94?style=flat-square" alt="RAG"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/LLM_Integration-Exploring-6C3483?style=flat-square" alt="LLM integration"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>Web Development</h4>
+      <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" alt="Web technologies"/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>Developer Tools & Infrastructure</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman&theme=dark" alt="Developer tools"/>
+    </td>
+  </tr>
+</table>
 
-### Backend Development & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,flask" alt="Backend frameworks"/>
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" alt="Databases"/>
-</p>
-
-### AI, Machine Learning & GenAI
-
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-Exploring-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Generative_AI-Learning-412991?style=for-the-badge" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/RAG-Exploring-0B7285?style=for-the-badge" alt="RAG"/>
-  <img src="https://img.shields.io/badge/LangChain-Exploring-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Ollama-Local_LLMs-black?style=for-the-badge" alt="Ollama"/>
-</p>
-
-### Developer Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" alt="Developer tools"/>
-</p>
-
----
-
-## 💻 Featured Projects
-
-### 🧾 FinAudit AI — Financial Audit & Reconciliation
-
-An AI-assisted financial analysis application designed to help identify transaction mismatches and investigate reconciliation issues.
-
-- 📊 Reconciles financial transactions and identifies unmatched records.
-- 🔍 Helps investigate discrepancies in financial data.
-- ⚙️ Backend API development with Python and FastAPI.
-- 🗄️ Uses SQLite for local data storage.
-- 🤖 Designed to integrate local LLMs through Ollama for AI-assisted explanations.
-
-**Tech:** Python • FastAPI • SQLite • React • Ollama
-
-### 🏗️ BuildTrack AI — Project & Resource Management
-
-A project management application focused on tracking employees, tasks, attendance, inventory, expenses, equipment, and reports.
-
-- 📋 Organizes project operations and resource tracking.
-- 📈 Provides dashboards for budgets, analytics, and equipment.
-- 📄 Supports report generation.
-
-**Tech:** Python • Backend APIs • SQL • PDF Reporting
-
-### 🏥 Virtual Health Record System
-
-A healthcare application concept for managing patient records and providing controlled access to medical information.
-
-- 🩺 Separate doctor and patient portals.
-- 🔐 Role-based access and emergency record access.
-- 📄 QR-code-based access to downloadable medical reports.
-
-**Tech:** HTML • CSS • JavaScript • PostgreSQL
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+## Projects I'm Building
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mahesh2611975&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh2611975&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
+### FinAudit AI — Financial Reconciliation & Investigation
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh2611975&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
-</p>
+An application designed to help analyze financial transactions, identify mismatches, and investigate reconciliation discrepancies.
 
----
+- Transaction matching and unmatched record identification.
+- Financial discrepancy analysis and reporting.
+- Backend APIs and data processing.
+- Exploring local LLM integration for AI-assisted investigation.
 
-## 🐍 Contribution Graph
+**Technologies:** Python • FastAPI • SQLite • React • Ollama
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahesh2611975&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph"/>
-</p>
+### BuildTrack AI — Project & Resource Management
 
----
+A project management system for organizing employees, tasks, attendance, inventory, expenses, equipment, and project reports.
 
-## 🤝 Connect With Me
+**Technologies:** Backend APIs • Database Management • PDF Reports • Analytics Dashboards
 
-<p align="center">
-  <a href="mailto:my0254620@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/Mahesh2611975">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://mahesh2611975.github.io/Portpolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://instagram.com/mahesh_yadav_2611">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+### Virtual Health Record System
+
+A healthcare application concept for managing patient medical records through separate doctor and patient portals, with controlled emergency access and downloadable reports.
+
+**Technologies:** HTML • CSS • JavaScript • PostgreSQL
 
 ---
 
-<p align="center">
-  💡 <b>Building today. Innovating tomorrow.</b>
-</p>
+## GitHub Activity
 
-<p align="center">
-  <i>Thanks for visiting my GitHub profile! ⭐ Feel free to explore my repositories.</i>
-</p>
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mahesh2611975&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh2611975&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+<br/><br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh2611975&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Mahesh2611975" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:my0254620@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="50" alt="Email"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://mahesh2611975.github.io/Portpolio/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="50" alt="Portfolio"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/mahesh_yadav_2611" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50" alt="Instagram"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building reliable backends. Exploring intelligent AI.
+
+*Learn continuously. Build practically. Solve real-world problems.*
+
+</div>
