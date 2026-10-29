@@ -132,16 +132,16 @@ A microfinance platform designed to support loan eligibility assessment, financi
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh2611975&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh2611975&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mahesh2611975&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
+<a href="https://github.com/Mahesh2611975?tab=overview">
+  <img src="https://img.shields.io/badge/View_Contribution_History-181717?style=for-the-badge&logo=github&logoColor=white" alt="View contribution history"/>
+</a>
 
-<br/><br/>
-
-<a href="https://github.com/Mahesh2611975">
-  <img src="https://img.shields.io/badge/View_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories"/>
+<a href="https://github.com/Mahesh2611975?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_Projects-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
 </a>
 
 </div>
