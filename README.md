@@ -12,6 +12,9 @@ Python Backend Engineering • Generative AI • Machine Learning
 <a href="https://mahesh2611975.github.io/Portpolio/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
+<a href="mailto:my0254620@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
@@ -19,13 +22,15 @@ Python Backend Engineering • Generative AI • Machine Learning
 
 ## What I Build
 
-I'm a Computer Science and Engineering student focused on building reliable backend systems and intelligent applications using Python, FastAPI, Django, and Generative AI.
+I'm a Computer Science and Engineering student passionate about building reliable backend systems and intelligent applications using Python, FastAPI, Django, and Generative AI.
 
-My interests include API development, database design, Machine Learning, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), and AI agents. I enjoy turning ideas into practical applications that solve real-world problems.
+My interests include API development, database design, Machine Learning, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), and AI agents. I enjoy transforming ideas into practical applications that solve real-world problems.
 
-Currently, I'm building **FinAudit AI**, a financial reconciliation and discrepancy investigation application, while expanding my knowledge of backend engineering and local LLM integration.
+Currently, I'm developing **FinAudit AI**, a financial reconciliation and discrepancy investigation application, while expanding my knowledge of backend engineering, AI workflows, and local LLM integration.
 
-My goal is to become a strong backend and AI engineer by building practical projects, writing maintainable code, and continuously learning modern technologies.
+I also work on projects involving resource management, machine learning-based microfinance, and privacy-focused financial data processing.
+
+My goal is to become a skilled backend and AI engineer by building practical projects, writing maintainable code, and continuously learning modern technologies.
 
 ---
 
@@ -61,8 +66,6 @@ My goal is to become a strong backend and AI engineer by building practical proj
     </td>
     <td width="50%" align="center" valign="top">
       <h4>Machine Learning & RAG</h4>
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" height="45" alt="Python"/>
-      &nbsp;
       <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45" alt="Scikit-learn"/>
       &nbsp;
       <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="45" alt="Hugging Face"/>
@@ -75,7 +78,7 @@ My goal is to become a strong backend and AI engineer by building practical proj
   <tr>
     <td width="50%" align="center" valign="top">
       <h4>Web Development</h4>
-      <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" alt="Web technologies"/>
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark" alt="Web development technologies"/>
     </td>
     <td width="50%" align="center" valign="top">
       <h4>Developer Tools & Infrastructure</h4>
@@ -90,33 +93,39 @@ My goal is to become a strong backend and AI engineer by building practical proj
 
 ## Projects I'm Building
 
-### FinAudit AI — Financial Reconciliation & Investigation
+### 🧾 FinAudit AI — Financial Reconciliation & Investigation
 
-An application designed to help analyze financial transactions, identify mismatches, and investigate reconciliation discrepancies.
+An application designed to analyze financial transactions, identify mismatches, and investigate reconciliation discrepancies.
 
 - Transaction matching and unmatched record identification.
 - Financial discrepancy analysis and reporting.
-- Backend APIs and data processing.
-- Exploring local LLM integration for AI-assisted investigation.
+- Backend APIs and structured financial data processing.
+- Exploring local LLM integration for AI-assisted investigations.
 
 **Technologies:** Python • FastAPI • SQLite • React • Ollama
 
-### BuildTrack AI — Project & Resource Management
+### 🏗️ BuildTrack AI — Project & Resource Management
 
-A project management system for organizing employees, tasks, attendance, inventory, expenses, equipment, and project reports.
+A project management platform for organizing employees, tasks, attendance, inventory, expenses, equipment, and project reports.
 
-**Technologies:** Backend APIs • Database Management • PDF Reports • Analytics Dashboards
+- Employee, contractor, supplier, and task management.
+- Inventory, material issue, and purchase order tracking.
+- Expense tracking, budget analytics, and equipment dashboards.
+- PDF reporting and operational insights.
+
+**Technologies:** Python • Backend APIs • SQL • PDF Reporting • Analytics Dashboards
 
 ### 💰 CredoLocal — AI-Powered Microfinance Platform
 
-A privacy-first microfinance platform that uses machine learning for loan eligibility assessment, intelligent lender matching, and blockchain-audited loan workflows.
+A microfinance platform designed to support loan eligibility assessment, financial risk analysis, lender matching, and privacy-conscious SMS transaction processing.
 
--  ML-powered credit risk analysis and loan eligibility scoring.
--  EMI calculation and personalized lender matching.
--  On-device SMS processing to protect sensitive financial data.
--  Blockchain-based loan audit trails.
+- ML-powered credit risk analysis and loan eligibility scoring.
+- EMI calculation and lender matching.
+- On-device SMS feature extraction to minimize exposure of sensitive financial data.
+- Blockchain-based loan audit workflow using smart contracts.
 
 **Technologies:** Python • FastAPI • React • PostgreSQL • Machine Learning • Solidity • Hardhat • AWS S3
+
 ---
 
 ## GitHub Activity
@@ -124,7 +133,8 @@ A privacy-first microfinance platform that uses machine learning for loan eligib
 <div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mahesh2611975&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh2611975&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh2611975&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
@@ -138,7 +148,7 @@ A privacy-first microfinance platform that uses machine learning for loan eligib
 
 <div align="center">
 
-<a href="https://github.com/Mahesh2611975" target="_blank">
+<a href="https://github.com/Mahesh2611975">
   <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;&nbsp;
@@ -146,11 +156,11 @@ A privacy-first microfinance platform that uses machine learning for loan eligib
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="50" alt="Email"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://mahesh2611975.github.io/Portpolio/" target="_blank">
+<a href="https://mahesh2611975.github.io/Portpolio/">
   <img src="https://skillicons.dev/icons?i=html&theme=dark" height="50" alt="Portfolio"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/mahesh_yadav_2611" target="_blank">
+<a href="https://instagram.com/mahesh_yadav_2611">
   <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50" alt="Instagram"/>
 </a>
 
