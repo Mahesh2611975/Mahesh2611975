@@ -107,12 +107,16 @@ A project management system for organizing employees, tasks, attendance, invento
 
 **Technologies:** Backend APIs • Database Management • PDF Reports • Analytics Dashboards
 
-### Virtual Health Record System
+### 💰 CredoLocal — AI-Powered Microfinance Platform
 
-A healthcare application concept for managing patient medical records through separate doctor and patient portals, with controlled emergency access and downloadable reports.
+A privacy-first microfinance platform that uses machine learning for loan eligibility assessment, intelligent lender matching, and blockchain-audited loan workflows.
 
-**Technologies:** HTML • CSS • JavaScript • PostgreSQL
+-  ML-powered credit risk analysis and loan eligibility scoring.
+-  EMI calculation and personalized lender matching.
+-  On-device SMS processing to protect sensitive financial data.
+-  Blockchain-based loan audit trails.
 
+**Technologies:** Python • FastAPI • React • PostgreSQL • Machine Learning • Solidity • Hardhat • AWS S3
 ---
 
 ## GitHub Activity
