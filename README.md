@@ -91,42 +91,9 @@ My goal is to become a skilled backend and AI engineer by building practical pro
 
 ---
 
-## Projects I'm Building
+ 
 
-### 🧾 FinAudit AI — Financial Reconciliation & Investigation
 
-An application designed to analyze financial transactions, identify mismatches, and investigate reconciliation discrepancies.
-
-- Transaction matching and unmatched record identification.
-- Financial discrepancy analysis and reporting.
-- Backend APIs and structured financial data processing.
-- Exploring local LLM integration for AI-assisted investigations.
-
-**Technologies:** Python • FastAPI • SQLite • React • Ollama
-
-### 🏗️ BuildTrack AI — Project & Resource Management
-
-A project management platform for organizing employees, tasks, attendance, inventory, expenses, equipment, and project reports.
-
-- Employee, contractor, supplier, and task management.
-- Inventory, material issue, and purchase order tracking.
-- Expense tracking, budget analytics, and equipment dashboards.
-- PDF reporting and operational insights.
-
-**Technologies:** Python • Backend APIs • SQL • PDF Reporting • Analytics Dashboards
-
-### 💰 CredoLocal — AI-Powered Microfinance Platform
-
-A microfinance platform designed to support loan eligibility assessment, financial risk analysis, lender matching, and privacy-conscious SMS transaction processing.
-
-- ML-powered credit risk analysis and loan eligibility scoring.
-- EMI calculation and lender matching.
-- On-device SMS feature extraction to minimize exposure of sensitive financial data.
-- Blockchain-based loan audit workflow using smart contracts.
-
-**Technologies:** Python • FastAPI • React • PostgreSQL • Machine Learning • Solidity • Hardhat • AWS S3
-
----
 
 ## GitHub Activity
 
