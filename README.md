@@ -20,7 +20,6 @@ Python Backend Engineering • Generative AI • Machine Learning
 
 ---
 
-## What I Build
 
 I'm a Computer Science and Engineering student passionate about building reliable backend systems and intelligent applications using Python, FastAPI, Django, and Generative AI.
 
